@@ -5,7 +5,10 @@
     "branch": "master"
   },
   "site": {},
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "jsilzer",
+    "github": "jesilz"
+  },
   "theme": {
     "name": "casper"
   }
