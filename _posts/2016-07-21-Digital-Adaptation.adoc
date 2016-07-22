@@ -1,0 +1,9 @@
+= Digital Adaptation
+
+:hp-tags: information architecture, website redesign
+
+- https://www.smashingmagazine.com/2014/03/are-we-thinking-about-digital-all-wrong/
+- http://www.digital-adaptation.com/
+- http://www.gerrymcgovern.com/books/strangers-long-neck
+
+What do you do with 250,000 pages and documents spread over 100+ microsites? 
